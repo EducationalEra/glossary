@@ -13,7 +13,8 @@
 
 ### Classroom Management
 
-* [Ранкове коло та коло вражень](2/kolo.md)
+* [Ранкове коло](2/kolo.md)
+* [Коло вражень](2/kolo-vrazhen.md)
 * [Класний менеджмент](2/klasniy-management.md)
 * [Вправи «криголами»](2/vpravy-krygolamy.md)
 * [Правила і рутини](2/pravyla-ta-rutyny.md)
