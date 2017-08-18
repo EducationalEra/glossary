@@ -1,5 +1,3 @@
-<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
-
 # Інтерактивний посібник-глосарій для вчителів початкових класів
 
 1. [Що таке глосарій?](#glosariy)
@@ -16,7 +14,11 @@
 
 Решта тем – у процесі розробки, як і повноцінний онлайн-курс. Щоб першими отримати доступ до навчальних матеріалів заповніть анкету за посиланням.
 
-<center><a href="https://edera1.typeform.com/to/Gc9QZ4" target="_blank"><button type="button" class="btn btn-primary" aria-haspopup="true" aria-expanded="false">Перейти до анкети</button></a></center>
+<p><center><a href="https://edera1.typeform.com/to/Gc9QZ4" target="_blank"><button type="button" class="btn btn-primary" aria-haspopup="true" aria-expanded="false">Перейти до анкети</button></a></center></p>
+
+<p align="center"><b>Звернення Ірени Корбабіч-Путко, директора НВК «Новопечерська школа»</b></p>
+
+<p align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/pjG4UDJt35M?ecver=1" frameborder="0" allowfullscreen></iframe></p>
 
 ##Зручність та адаптивність {#zruchnist}
 
@@ -29,7 +31,3 @@
 ##Індексація в Google {#google}
 
 На кожну сторінку посібника можна потрапити із запиту Google. Також з кожної сторінки за посиланням можна потрапити у повну версію онлайн-курсу.
-
-<div class="js-hypercomments-container">
-<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
-</div>

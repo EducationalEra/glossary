@@ -1,5 +1,3 @@
-<div id="hypercomments_widget" class="js-hypercomments-widget invisible"></div>
-
 # Зміст
 
 1. [Загальний огляд](#ohlyad)
@@ -45,7 +43,3 @@
 
 * [Щоденник вражень](5/shodennyk-vrazhen.md)
 * Storytelling
-
-<div class="js-hypercomments-container">
-<a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
-</div>
