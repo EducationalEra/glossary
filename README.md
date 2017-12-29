@@ -14,7 +14,7 @@
 
 Решта тем – у процесі розробки, як і повноцінний онлайн-курс. Щоб першими отримати доступ до навчальних матеріалів заповніть анкету за посиланням.
 
-<p><center><a href="https://edera1.typeform.com/to/Gc9QZ4" target="_blank"><button type="button" class="btn btn-primary" aria-haspopup="true" aria-expanded="false">Зареєструватися на онлайн-курс</button></a></center></p>
+<p><center><a href="https://ed-era.com/nus" target="_blank"><button type="button" class="btn btn-primary" aria-haspopup="true" aria-expanded="false">Зареєструватися на онлайн-курс</button></a></center></p>
 
 <p align="center"><b>Звернення Ірени Корбабіч-Путко, директора НВК «Новопечерська школа»</b></p>
 
